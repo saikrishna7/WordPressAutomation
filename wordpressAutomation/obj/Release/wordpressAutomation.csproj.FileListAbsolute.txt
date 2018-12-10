@@ -1,0 +1,11 @@
+C:\Users\saikr\source\repos\seleniumAutomationFramework\wordpressAutomation\wordpressAutomation\bin\Release\wordpressAutomation.dll
+C:\Users\saikr\source\repos\seleniumAutomationFramework\wordpressAutomation\wordpressAutomation\bin\Release\wordpressAutomation.pdb
+C:\Users\saikr\source\repos\seleniumAutomationFramework\wordpressAutomation\wordpressAutomation\bin\Release\WebDriver.dll
+C:\Users\saikr\source\repos\seleniumAutomationFramework\wordpressAutomation\wordpressAutomation\bin\Release\WebDriver.Support.dll
+C:\Users\saikr\source\repos\seleniumAutomationFramework\wordpressAutomation\wordpressAutomation\bin\Release\WebDriver.xml
+C:\Users\saikr\source\repos\seleniumAutomationFramework\wordpressAutomation\wordpressAutomation\bin\Release\WebDriver.Support.xml
+C:\Users\saikr\source\repos\seleniumAutomationFramework\wordpressAutomation\wordpressAutomation\obj\Release\wordpressAutomation.csprojAssemblyReference.cache
+C:\Users\saikr\source\repos\seleniumAutomationFramework\wordpressAutomation\wordpressAutomation\obj\Release\wordpressAutomation.csproj.CoreCompileInputs.cache
+C:\Users\saikr\source\repos\seleniumAutomationFramework\wordpressAutomation\wordpressAutomation\obj\Release\wordpressAutomation.csproj.CopyComplete
+C:\Users\saikr\source\repos\seleniumAutomationFramework\wordpressAutomation\wordpressAutomation\obj\Release\wordpressAutomation.dll
+C:\Users\saikr\source\repos\seleniumAutomationFramework\wordpressAutomation\wordpressAutomation\obj\Release\wordpressAutomation.pdb

@@ -1,0 +1,17 @@
+C:\Users\saikr\source\repos\seleniumAutomationFramework\wordpressAutomation\wordpressTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\saikr\source\repos\seleniumAutomationFramework\wordpressAutomation\wordpressTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\saikr\source\repos\seleniumAutomationFramework\wordpressAutomation\wordpressTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\saikr\source\repos\seleniumAutomationFramework\wordpressAutomation\wordpressTests\bin\Release\wordpressTests.dll
+C:\Users\saikr\source\repos\seleniumAutomationFramework\wordpressAutomation\wordpressTests\bin\Release\wordpressTests.pdb
+C:\Users\saikr\source\repos\seleniumAutomationFramework\wordpressAutomation\wordpressTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\saikr\source\repos\seleniumAutomationFramework\wordpressAutomation\wordpressTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\saikr\source\repos\seleniumAutomationFramework\wordpressAutomation\wordpressTests\bin\Release\wordpressAutomation.dll
+C:\Users\saikr\source\repos\seleniumAutomationFramework\wordpressAutomation\wordpressTests\bin\Release\wordpressAutomation.pdb
+C:\Users\saikr\source\repos\seleniumAutomationFramework\wordpressAutomation\wordpressTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\saikr\source\repos\seleniumAutomationFramework\wordpressAutomation\wordpressTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\saikr\source\repos\seleniumAutomationFramework\wordpressAutomation\wordpressTests\bin\Release\WebDriver.xml
+C:\Users\saikr\source\repos\seleniumAutomationFramework\wordpressAutomation\wordpressTests\obj\Release\wordpressTests.csprojAssemblyReference.cache
+C:\Users\saikr\source\repos\seleniumAutomationFramework\wordpressAutomation\wordpressTests\obj\Release\wordpressTests.csproj.CoreCompileInputs.cache
+C:\Users\saikr\source\repos\seleniumAutomationFramework\wordpressAutomation\wordpressTests\obj\Release\wordpressTests.csproj.CopyComplete
+C:\Users\saikr\source\repos\seleniumAutomationFramework\wordpressAutomation\wordpressTests\obj\Release\wordpressTests.dll
+C:\Users\saikr\source\repos\seleniumAutomationFramework\wordpressAutomation\wordpressTests\obj\Release\wordpressTests.pdb
